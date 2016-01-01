@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MHRD Link</string>
+
+    <array name="tabs">
+        <item>News Feed</item>
+        <item>Institute</item>
+        <item>Profile</item>
+    </array>
+
+    <array name="content_tabs">
+        <item>Content</item>
+        <item>Comments</item>
+    </array>
+
+    <array name="login_tabs">
+        <item>Login</item>
+        <item>Register</item>
+        <item>Signup</item>
+    </array>
+
+    <string name="more">More</string>
+    <string name="write_comment">Write Comment...</string>
+
+    <string name="title">Title</string>
+    <string name="anonymous">Anonymous</string>
+
+    <string name="homepage">Homepage</string>
+    <string name="phone">Phone</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="college">College</string>
+    <string name="designation">Designation</string>
+    <string name="add_designation">Add Designation</string>
+    <string name="content">Content</string>
+
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+
+    <string name="tags">Tags</string>
+    <string name="tags_options">Add Tag</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

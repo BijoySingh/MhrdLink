@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_logo">56dp</dimen>
+    <dimen name="toolbar_icon">48dp</dimen>
+    <dimen name="toolbar_title">18sp</dimen>
+
+    <dimen name="nf_votes">18sp</dimen>
+    <dimen name="nf_title">21sp</dimen>
+    <dimen name="nf_content">16sp</dimen>
+    <dimen name="nf_tags">16sp</dimen>
+    <dimen name="nf_author_name">14sp</dimen>
+    <dimen name="nf_timestamp">14sp</dimen>
+    <dimen name="nf_author_picture">64dp</dimen>
+    <dimen name="nf_vote_icon">42dp</dimen>
+    <dimen name="nf_more_icon">24dp</dimen>
+    <dimen name="nf_bookmarks_icon">36dp</dimen>
+    <dimen name="nf_more_text">16sp</dimen>
+
+    <dimen name="institute_cover">200dp</dimen>
+    <dimen name="institute_picture">64dp</dimen>
+    <dimen name="institute_name">21dp</dimen>
+    <dimen name="institute_details">16sp</dimen>
+    <dimen name="institute_location">16dp</dimen>
+    <dimen name="institutes_logo">96dp</dimen>
+
+    <dimen name="institute_spinner_picture">64dp</dimen>
+    <dimen name="institute_spinner_name">18dp</dimen>
+    <dimen name="institute_spinner_location">14dp</dimen>
+
+    <dimen name="comment_author_name">16sp</dimen>
+    <dimen name="comment_timestamp">14sp</dimen>
+    <dimen name="comment_author_picture">48dp</dimen>
+    <dimen name="comment_content">14sp</dimen>
+    <dimen name="comment_send">48dp</dimen>
+
+    <dimen name="content_author_name">16sp</dimen>
+    <dimen name="content_more_icon">30dp</dimen>
+    <dimen name="content_more_text">18dp</dimen>
+    <dimen name="content_bookmarks_icon">42dp</dimen>
+
+    <dimen name="profile_pic">108dp</dimen>
+</resources>
